@@ -14,7 +14,7 @@
 
 * for normal use, in Terminal:
     * edit `./setvars.sh`
-    * `./gradlew clean run`
+    * `sbt run`
 * for skill illustration, in Terminal:
     * `claude`
     * `/init`
