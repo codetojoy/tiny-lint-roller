@@ -1,8 +1,8 @@
 
 ### Info
 
-* derived from [this repo](https://github.com/TuxGamer/ebean-example)
-* tested with Java 21, Gradle 8.4
+* originally derived from [this repo](https://github.com/TuxGamer/ebean-example)
+* [This repo](https://github.com/codetojoy/easter_eggs_for_play_framework/tree/main/egg_play_as_sdk_MAY_2024/commandline_app_ebean) is known to work. This particular repo is used to illustrate a skill in Claude Code.
 
 ### Notes
 
