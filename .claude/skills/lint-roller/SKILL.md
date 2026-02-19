@@ -16,7 +16,7 @@ while (!done) {
 }
 ```
 
-### EBean ORM in Java
+### Ebean ORM in Java
 
 - Warn for any methods that perform a count of objects, but use `findList()` to do it,
 as this is a performance concern.
