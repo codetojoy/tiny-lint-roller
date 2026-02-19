@@ -19,3 +19,7 @@
     * `claude`
     * `/init`
     * `/lint-roller`
+
+### Example Run 
+
+* see [this screenshot](./resources/screenshot.png)
